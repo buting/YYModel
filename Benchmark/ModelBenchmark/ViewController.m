@@ -93,6 +93,7 @@
     }
     [holder removeAllObjects];
     
+    //lcxnote
     /*------------------- Manually -------------------*/
     {
         [holder removeAllObjects];
